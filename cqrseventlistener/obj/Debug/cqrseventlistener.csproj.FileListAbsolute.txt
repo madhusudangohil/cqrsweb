@@ -1,0 +1,14 @@
+d:\Learning\CQRS\cqrsweb\cqrseventlistener\obj\Debug\cqrseventlistener.csprojResolveAssemblyReference.cache
+d:\learning\cqrs\cqrsweb\cqrseventlistener\bin\Debug\cqrseventlistener.exe.config
+d:\learning\cqrs\cqrsweb\cqrseventlistener\bin\Debug\cqrseventlistener.exe
+d:\learning\cqrs\cqrsweb\cqrseventlistener\bin\Debug\cqrseventlistener.pdb
+d:\learning\cqrs\cqrsweb\cqrseventlistener\bin\Debug\cqrscommon.dll
+d:\learning\cqrs\cqrsweb\cqrseventlistener\bin\Debug\EntityFramework.dll
+d:\learning\cqrs\cqrsweb\cqrseventlistener\bin\Debug\EntityFramework.SqlServer.dll
+d:\learning\cqrs\cqrsweb\cqrseventlistener\bin\Debug\inContact.dll
+d:\learning\cqrs\cqrsweb\cqrseventlistener\bin\Debug\inContact.pdb
+d:\learning\cqrs\cqrsweb\cqrseventlistener\bin\Debug\cqrscommon.pdb
+d:\learning\cqrs\cqrsweb\cqrseventlistener\bin\Debug\EntityFramework.xml
+d:\learning\cqrs\cqrsweb\cqrseventlistener\bin\Debug\EntityFramework.SqlServer.xml
+d:\learning\cqrs\cqrsweb\cqrseventlistener\obj\Debug\cqrseventlistener.exe
+d:\learning\cqrs\cqrsweb\cqrseventlistener\obj\Debug\cqrseventlistener.pdb

@@ -1,0 +1,12 @@
+d:\learning\cqrs\cqrsweb\cqrswebreaddataccess\bin\Debug\cqrswebreaddataccess.dll.config
+d:\learning\cqrs\cqrsweb\cqrswebreaddataccess\bin\Debug\cqrswebreaddataccess.dll
+d:\learning\cqrs\cqrsweb\cqrswebreaddataccess\bin\Debug\cqrswebreaddataccess.pdb
+d:\learning\cqrs\cqrsweb\cqrswebreaddataccess\bin\Debug\EntityFramework.dll
+d:\learning\cqrs\cqrsweb\cqrswebreaddataccess\bin\Debug\EntityFramework.SqlServer.dll
+d:\learning\cqrs\cqrsweb\cqrswebreaddataccess\bin\Debug\EntityFramework.xml
+d:\learning\cqrs\cqrsweb\cqrswebreaddataccess\bin\Debug\EntityFramework.SqlServer.xml
+d:\learning\cqrs\cqrsweb\cqrswebreaddataccess\obj\Debug\cqrswebreaddataccess.dll
+d:\learning\cqrs\cqrsweb\cqrswebreaddataccess\obj\Debug\cqrswebreaddataccess.pdb
+d:\learning\cqrs\cqrsweb\cqrswebreaddataccess\obj\Debug\cqrswebreaddataccess.Migrations.Initial.resources
+d:\learning\cqrs\cqrsweb\cqrswebreaddataccess\obj\Debug\cqrswebreaddataccess.csproj.GenerateResource.Cache
+D:\Learning\CQRS\cqrsweb\cqrswebreaddataccess\obj\Debug\cqrswebreaddataccess.csprojResolveAssemblyReference.cache

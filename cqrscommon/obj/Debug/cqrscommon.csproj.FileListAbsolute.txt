@@ -1,0 +1,7 @@
+d:\Learning\CQRS\cqrsweb\cqrscommon\bin\Debug\cqrscommon.dll
+d:\Learning\CQRS\cqrsweb\cqrscommon\bin\Debug\cqrscommon.pdb
+d:\Learning\CQRS\cqrsweb\cqrscommon\bin\Debug\inContact.dll
+d:\Learning\CQRS\cqrsweb\cqrscommon\bin\Debug\inContact.pdb
+d:\Learning\CQRS\cqrsweb\cqrscommon\obj\Debug\cqrscommon.csprojResolveAssemblyReference.cache
+d:\Learning\CQRS\cqrsweb\cqrscommon\obj\Debug\cqrscommon.dll
+d:\Learning\CQRS\cqrsweb\cqrscommon\obj\Debug\cqrscommon.pdb

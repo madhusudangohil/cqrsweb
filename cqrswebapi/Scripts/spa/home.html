@@ -1,0 +1,60 @@
+﻿<div ng-controller="homeController">
+    <div class="col-md-4"><button type="button" ng-click="RegisterTelevision();">Register New Television</button></div>
+    <div class="col-md-4"><button type="button" ng-click="GetAllTelevisions();">GetAllTvs</button></div>
+
+    <table>
+        <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="tv in tvs">
+                <td><button ng-click="InitalizeTelevision(tv.Id);">Get TV</button>{{tv.Id}}</td>
+                <td>{{tv.IsOn}}</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+    <div class="col-md-8"><button type="button" ng-click="hello();" value="Greeting">Click Me!</button>
+    </div>
+    <div class="col-md-4">{{greeting}}</div>
+    <br/>
+    <div class="col-md-4">
+        <button type="button" ng-click="InitalizeTelevision();" value="Open">Open Tv</button>
+    </div>
+    <div class="col-md-2">
+        <button type="button" ng-click="PowerOn(Television);" value="Power On">Power On Tv</button>
+    </div>
+    <div class="col-md-2">
+        <button type="button" ng-click="PowerOff(Television);" value="Power On">Power Off Tv</button>
+    </div>
+    <div class="col-md-2">
+        <button type="button" ng-click="ChannelUp(Television);" value="Channel Up">Channel Up</button>
+    </div>
+    <div class="col-md-2">
+        <button type="button" ng-click="ChannelDown(Television);" value="Channel Down">Channel Down</button>
+    </div>
+    <br/>
+
+    <div class="col-md-8">Television Id:</div>
+    <div class="col-md-4">
+        <label ng-model="Television.Id">{{Television.Id}}</label>
+    </div>
+    <br />
+    <div class="col-md-8">Television State:</div>
+    <div class="col-md-4"><label ng-model="Television.IsOn">{{Television.IsOn}}</label></div>
+    <br/>
+    <div class="col-md-8">Television Previous Channel:</div>
+    <div class="col-md-4"><label ng-model="Television.FromChannel">{{Television.FromChannel}}</label></div>
+    <br/>
+    <div class="col-md-8">Television Current Channel:</div>
+    <div class="col-md-4"><label ng-model="Television.ToChannel">{{Television.ToChannel}}</label>
+    </div>
+    <br/>
+    <div class="col-md-8">Version:</div>
+    <div class="col-md-4"><label ng-model="Television.Version">{{Television.Version}}</label></div>
+</div>

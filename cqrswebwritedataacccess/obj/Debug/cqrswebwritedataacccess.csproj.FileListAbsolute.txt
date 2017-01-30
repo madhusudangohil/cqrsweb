@@ -1,0 +1,16 @@
+d:\Learning\CQRS\cqrsweb\cqrswebwritedataacccess\bin\Debug\cqrswebwritedataacccess.dll.config
+d:\Learning\CQRS\cqrsweb\cqrswebwritedataacccess\bin\Debug\cqrswebwritedataacccess.dll
+d:\Learning\CQRS\cqrsweb\cqrswebwritedataacccess\bin\Debug\cqrswebwritedataacccess.pdb
+d:\Learning\CQRS\cqrsweb\cqrswebwritedataacccess\bin\Debug\EntityFramework.dll
+d:\Learning\CQRS\cqrsweb\cqrswebwritedataacccess\bin\Debug\EntityFramework.SqlServer.dll
+d:\Learning\CQRS\cqrsweb\cqrswebwritedataacccess\bin\Debug\EntityFramework.xml
+d:\Learning\CQRS\cqrsweb\cqrswebwritedataacccess\bin\Debug\EntityFramework.SqlServer.xml
+d:\Learning\CQRS\cqrsweb\cqrswebwritedataacccess\obj\Debug\cqrswebwritedataacccess.csprojResolveAssemblyReference.cache
+d:\Learning\CQRS\cqrsweb\cqrswebwritedataacccess\obj\Debug\cqrswebwritedataacccess.dll
+d:\Learning\CQRS\cqrsweb\cqrswebwritedataacccess\obj\Debug\cqrswebwritedataacccess.pdb
+d:\learning\cqrs\cqrsweb\cqrswebwritedataacccess\bin\Debug\cqrscommon.dll
+d:\learning\cqrs\cqrsweb\cqrswebwritedataacccess\bin\Debug\inContact.dll
+d:\learning\cqrs\cqrsweb\cqrswebwritedataacccess\bin\Debug\cqrscommon.pdb
+d:\learning\cqrs\cqrsweb\cqrswebwritedataacccess\bin\Debug\inContact.pdb
+d:\learning\cqrs\cqrsweb\cqrswebwritedataacccess\obj\Debug\cqrswebwritedataacccess.Migrations.first.resources
+d:\learning\cqrs\cqrsweb\cqrswebwritedataacccess\obj\Debug\cqrswebwritedataacccess.csproj.GenerateResource.Cache
